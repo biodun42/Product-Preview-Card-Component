@@ -189,7 +189,6 @@ button:hover{
         width: 100%;
         height: auto;
         padding: 1rem;
-        gap: 2rem;
     }
     .producttext h2{
         font-size: 0.8rem;
@@ -199,7 +198,7 @@ button:hover{
         color: var(--Darkgrayishblue);
     }
     .producttext h1{
-        font-size: 2rem;
+        font-size: 1.8rem;
         align-items: left;
         color: var(--Verydarkblue);
         font-family: 'Fraunces', sans-serif;
@@ -216,7 +215,7 @@ button:hover{
         justify-content: left;
         gap: 2rem;
         color: var(--Darkcyan);
-        font-size: 2rem;
+        font-size: 1.8girem;
         font-family: 'Fraunces', sans-serif;
         font-weight: 700;
         margin-bottom: -1rem;
